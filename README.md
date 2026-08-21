@@ -38,29 +38,13 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 ## 🛠️ Featured Security Projects
 
-### 🔐 [Pipeline-DevSecOps](https://github.com/Anne-LaureS/Pipeline-DevSecOps)
-> Pipeline Terraform/GitHub Actions sécurisé : fédération OIDC (zéro credential permanent), deux
-> rôles IAM scopés par claim `sub` du jeton, policy-as-code bloquante (Conftest/OPA), tests négatifs
-> documentés — pas juste affirmés.
+### 🔁 [IAM-Access-Recertification](https://github.com/Anne-LaureS/IAM-Access-Recertification)
+> Boîte à outils de gouvernance des accès IAM inspirée des campagnes de recertification type
+> SailPoint : détection de violations de séparation des tâches (SoD), repérage des rôles
+> "alibi" quasi-inutilisés, génération et traitement de campagnes de recertification. Ferme la
+> boucle sur les données produites par `LDAP-App-Role-Audit`.
 >
-> `Terraform` `GitHub Actions` `OIDC` `IAM` `OPA/Conftest`
-
-### ☸️ [Kubernetes-Kind-HA-Lab](https://github.com/Anne-LaureS/Kubernetes-Kind-HA-Lab)
-> Cluster Kubernetes multi-nœuds (KinD) : Ingress NGINX, déploiements v1/v2, autoscaling, stack de
-> monitoring complet (Prometheus, Grafana, Alertmanager, Elasticsearch).
->
-> `Kubernetes` `Docker` `Prometheus` `Grafana` `Elasticsearch`
-
-### ⚙️ [Pipeline-Jenkins](https://github.com/Anne-LaureS/Pipeline-Jenkins)
-> Catalogue de jobs Jenkins/Ansible/AWS traçables (inventaire, déploiement, nettoyage) — rôles
-> séparés par credential, rollback prouvé de bout en bout artefact → nettoyage.
->
-> `Jenkins` `Ansible` `AWS` `IAM`
-
-### ☁️ [Azure-HA-Web-Powershell-Deployment](https://github.com/Anne-LaureS/Azure-HA-Web-Powershell-Deployment)
-> Architecture web haute disponibilité sur Azure : load balancing, VMs, monitoring et budgeting.
->
-> `Azure` `PowerShell` `High Availability`
+> `PowerShell` `IAM Governance` `SoD` `Access Recertification`
 
 ### 🔍 [LDAP-App-Role-Audit](https://github.com/Anne-LaureS/LDAP-App-Role-Audit)
 > Script PowerShell d'audit d'accès applicatifs via LDAP : authentification + sélection des
@@ -70,13 +54,29 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `PowerShell` `LDAP` `IAM` `Access Audit` `LDAPS`
 
-### 🔁 [IAM-Access-Recertification](https://github.com/Anne-LaureS/IAM-Access-Recertification)
-> Boîte à outils de gouvernance des accès IAM inspirée des campagnes de recertification type
-> SailPoint : détection de violations de séparation des tâches (SoD), repérage des rôles
-> "alibi" quasi-inutilisés, génération et traitement de campagnes de recertification. Ferme la
-> boucle sur les données produites par `LDAP-App-Role-Audit`.
+### 🔐 [Pipeline-DevSecOps](https://github.com/Anne-LaureS/Pipeline-DevSecOps)
+> Pipeline Terraform/GitHub Actions sécurisé : fédération OIDC (zéro credential permanent), deux
+> rôles IAM scopés par claim `sub` du jeton, policy-as-code bloquante (Conftest/OPA), tests négatifs
+> documentés — pas juste affirmés.
 >
-> `PowerShell` `IAM Governance` `SoD` `Access Recertification`
+> `Terraform` `GitHub Actions` `OIDC` `IAM` `OPA/Conftest`
+
+### ⚙️ [Pipeline-Jenkins](https://github.com/Anne-LaureS/Pipeline-Jenkins)
+> Catalogue de jobs Jenkins/Ansible/AWS traçables (inventaire, déploiement, nettoyage) — rôles
+> séparés par credential, rollback prouvé de bout en bout artefact → nettoyage.
+>
+> `Jenkins` `Ansible` `AWS` `IAM`
+
+### ☸️ [Kubernetes-Kind-HA-Lab](https://github.com/Anne-LaureS/Kubernetes-Kind-HA-Lab)
+> Cluster Kubernetes multi-nœuds (KinD) : Ingress NGINX, déploiements v1/v2, autoscaling, stack de
+> monitoring complet (Prometheus, Grafana, Alertmanager, Elasticsearch).
+>
+> `Kubernetes` `Docker` `Prometheus` `Grafana` `Elasticsearch`
+
+### ☁️ [Azure-HA-Web-Powershell-Deployment](https://github.com/Anne-LaureS/Azure-HA-Web-Powershell-Deployment)
+> Architecture web haute disponibilité sur Azure : load balancing, VMs, monitoring et budgeting.
+>
+> `Azure` `PowerShell` `High Availability`
 
 ---
 
