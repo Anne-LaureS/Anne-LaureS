@@ -114,6 +114,12 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 ![OIDC](https://img.shields.io/badge/OIDC-Federation-0d1117?style=for-the-badge)
 ![LDAPS](https://img.shields.io/badge/LDAPS-Encrypted%20Bind-0d1117?style=for-the-badge)
 
+#### 🎯 Offensive Security
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge)
+![PTES](https://img.shields.io/badge/PTES-0d1117?style=for-the-badge)
+
 ---
 
 ## 📊 GitHub Stats
