@@ -7,8 +7,8 @@
 <img src="banner.svg" alt="GRC · IAM Governance · Cloud Security · SecOps" />
 
 [![TryHackMe Top 2%](https://img.shields.io/badge/TryHackMe-Top_2%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
-[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-202_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-achievements)
-[![Badges](https://img.shields.io/badge/THM_Badges-37_Badges-purple?style=for-the-badge)](#-tryhackme-achievements)
+[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-204_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-achievements)
+[![Badges](https://img.shields.io/badge/THM_Badges-38_Badges-purple?style=for-the-badge)](#-tryhackme-achievements)
 
 ---
 
@@ -66,10 +66,17 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 > Script PowerShell d'audit d'accès applicatifs via LDAP : authentification + sélection des
 > applications par popups, recherche récursive application → rôles → membres, export CSV
 > (nom, description, nombre et identité des membres par rôle). Testé de bout en bout contre
-> un serveur LDAP réel avant publication, bugs rencontrés documentés (byte[] vs string,
-> marshalling `params string[]`).
+> un serveur LDAP réel avant publication.
 >
 > `PowerShell` `LDAP` `IAM` `Access Audit` `LDAPS`
+
+### 🔁 [IAM-Access-Recertification](https://github.com/Anne-LaureS/IAM-Access-Recertification)
+> Boîte à outils de gouvernance des accès IAM inspirée des campagnes de recertification type
+> SailPoint : détection de violations de séparation des tâches (SoD), repérage des rôles
+> "alibi" quasi-inutilisés, génération et traitement de campagnes de recertification. Ferme la
+> boucle sur les données produites par `LDAP-App-Role-Audit`.
+>
+> `PowerShell` `IAM Governance` `SoD` `Access Recertification`
 
 ---
 
@@ -79,7 +86,7 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 | Rank | Rooms Completed | Badges Earned | Streak |
 | :---: | :---: | :---: | :---: |
-| 🥈 **Top 2%** (#27593) | **202** | **37** | 0 |
+| 🥈 **Top 2%** (#27323) | **204** | **38** | 0 |
 
 </div>
 
