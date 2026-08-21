@@ -2,7 +2,7 @@
 
 # 🛡️ Anne-LaureS 🌺
 
-### ⚡ Cybersecurity & Cloud Computing — 5ème année
+### ⚡ Cybersecurity & Cloud Computing
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════╗
@@ -22,7 +22,7 @@
 
 ```yaml
 Operator : "Anne-LaureS"
-Status: "En formation — Expertise Cybersécurité & Cloud Computing"
+Status: "En formation — Expertise Cybersécurité & Cloud Computing, 5ème année"
 Focus_Areas:
 - IAM & Access Governance Expertise
 - Cloud Security
