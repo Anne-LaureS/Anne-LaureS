@@ -23,14 +23,19 @@
 ```yaml
 Operator : "Anne-LaureS"
 Status: "En formation — Expertise Cybersécurité & Cloud Computing, 5ème année"
+Experience: "5 ans en Cybersécurité, dont 2 ans dédiés à l'IAM"
+Career_Path:
+- Cheffe de projet Sécurité & Conformité
+- Assistante RSSI
+- Administratrice SecOps
+- Attachée Sécurité Informatique — spécialiste IAM (poste actuel)
 Focus_Areas:
-- IAM & Access Governance Expertise
-- Cloud Security
-- AWS
-- Kubernetes
-- Terraform
-- Ansible
-Current_Mission: "Attachée Sécurité Informatique spécialiste IAM & CTI"
+- IAM & Access Governance
+- Cloud Security (AWS · Azure)
+- Compliance & Security Project Management
+- SecOps
+- Infrastructure as Code (Terraform, Ansible, Kubernetes)
+Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 ```
 
 ---
