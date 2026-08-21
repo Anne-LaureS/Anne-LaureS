@@ -54,6 +54,13 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `PowerShell` `LDAP` `IAM` `Access Audit` `LDAPS`
 
+### 🎯 [SOC-Lab-Vulnerability-Assessment](https://github.com/Anne-LaureS/SOC-Lab-Vulnerability-Assessment)
+> Rapport de test d'intrusion complet (méthodologie PTES + OWASP) contre un lab Metasploitable3 :
+> 11 vulnérabilités critiques (EternalBlue, BlueKeep, GhostCat, injection SQL, XSS...), chaîne
+> d'exploitation de bout en bout jusqu'à l'accès SYSTEM/root, remédiations vérifiées.
+>
+> `PTES` `Metasploit` `Kali Linux` `CVE` `Pentest`
+
 ### 🔐 [Pipeline-DevSecOps](https://github.com/Anne-LaureS/Pipeline-DevSecOps)
 > Pipeline Terraform/GitHub Actions sécurisé : fédération OIDC (zéro credential permanent), deux
 > rôles IAM scopés par claim `sub` du jeton, policy-as-code bloquante (Conftest/OPA), tests négatifs
@@ -66,12 +73,6 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 > séparés par credential, rollback prouvé de bout en bout artefact → nettoyage.
 >
 > `Jenkins` `Ansible` `AWS` `IAM`
-
-### ☸️ [Kubernetes-Kind-HA-Lab](https://github.com/Anne-LaureS/Kubernetes-Kind-HA-Lab)
-> Cluster Kubernetes multi-nœuds (KinD) : Ingress NGINX, déploiements v1/v2, autoscaling, stack de
-> monitoring complet (Prometheus, Grafana, Alertmanager, Elasticsearch).
->
-> `Kubernetes` `Docker` `Prometheus` `Grafana` `Elasticsearch`
 
 ### ☁️ [Azure-HA-Web-Powershell-Deployment](https://github.com/Anne-LaureS/Azure-HA-Web-Powershell-Deployment)
 > Architecture web haute disponibilité sur Azure : load balancing, VMs, monitoring et budgeting.
