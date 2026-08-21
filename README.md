@@ -4,11 +4,7 @@
 
 ### ⚡ Cybersecurity & Cloud Computing
 
-```text
-                     ╔══════════════════════════════════════════════════════╗
-                     ║  --> GRC · IAM Governance · Cloud Security · SecOps  ║
-                     ╚══════════════════════════════════════════════════════╝
-```
+<img src="banner.svg" alt="GRC · IAM Governance · Cloud Security · SecOps" />
 
 [![TryHackMe Top 2%](https://img.shields.io/badge/TryHackMe-Top_2%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
 [![Rooms Solved](https://img.shields.io/badge/THM_Rooms-202_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-achievements)
