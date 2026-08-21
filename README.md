@@ -101,6 +101,11 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
+#### 🔐 IAM & Security
+![LDAP](https://img.shields.io/badge/LDAP-IAM%20Audit-0d1117?style=for-the-badge)
+![OIDC](https://img.shields.io/badge/OIDC-Federation-0d1117?style=for-the-badge)
+![LDAPS](https://img.shields.io/badge/LDAPS-Encrypted%20Bind-0d1117?style=for-the-badge)
+
 ---
 
 ## 📊 GitHub Stats
