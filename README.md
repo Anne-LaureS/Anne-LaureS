@@ -5,9 +5,9 @@
 ### ⚡ Cybersecurity & Cloud Computing
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║  --> GRC · IAM Governance · Cloud Security · SecOps  ║
-╚══════════════════════════════════════════════════════╝
+         ╔══════════════════════════════════════════════════════╗
+         ║  --> GRC · IAM Governance · Cloud Security · SecOps  ║
+         ╚══════════════════════════════════════════════════════╝
 ```
 
 [![TryHackMe Top 2%](https://img.shields.io/badge/TryHackMe-Top_2%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
