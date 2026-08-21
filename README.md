@@ -1,5 +1,5 @@
 <h1 align="center">🌺 Anne-Laure ⚡</h1>
-<h3 align="center">🛡️ IAM & Cloud Security · AWS · Kubernetes · Terraform</h3>
+<h3 align="center">Cybersecurity & Cloud Computing</h3>
 
 ---
 
@@ -10,7 +10,7 @@ en IAM (déploiement, architecture) — conception d'accès moindre-privilège, 
 sans secret statique, et pipelines CI/CD qui bloquent réellement ce qu'ils sont censés bloquer.
 
 ```
-⚡ IAM & Access Governance Expertise
+🛡️ IAM & Cloud Security · AWS · Kubernetes · Terraform
 ```
 
 ---
