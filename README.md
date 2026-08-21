@@ -5,13 +5,13 @@
 ### ⚡ Cybersecurity & Cloud Computing
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║  --> GRC · IAM Governance · Cloud Security · SecOps  ║
-╚══════════════════════════════════════════════════════╝
+                     ╔══════════════════════════════════════════════════════╗
+                     ║  --> GRC · IAM Governance · Cloud Security · SecOps  ║
+                     ╚══════════════════════════════════════════════════════╝
 ```
 
 [![TryHackMe Top 2%](https://img.shields.io/badge/TryHackMe-Top_2%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
-[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-201_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-achievements)
+[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-202_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-achievements)
 [![Badges](https://img.shields.io/badge/THM_Badges-37_Badges-purple?style=for-the-badge)](#-tryhackme-achievements)
 
 ---
