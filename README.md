@@ -27,7 +27,7 @@ Experience: "5 ans en Cybersécurité, dont 2 ans dédiés à l'IAM"
 Career_Path:
 - Cheffe de projet Sécurité & Conformité
 - Assistante RSSI
-- Administratrice SecOps — spécialité Mac
+- Administratrice SecOps — spécialité macOS
 - Attachée Sécurité Informatique — spécialiste IAM (poste actuel)
 Focus_Areas:
 - IAM & Access Governance
