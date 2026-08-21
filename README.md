@@ -62,14 +62,14 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `Azure` `PowerShell` `High Availability`
 
-### 🦠 [Ransomware-en-Python](https://github.com/Anne-LaureS/Ransomware-en-Python)
-> Simulateur pédagogique de ransomware (client + serveur C2, chiffrement XOR) en environnement de
-> lab isolé — les faiblesses volontaires (chiffrement trivial à inverser, trafic non chiffré,
-> absence d'authentification) illustrent concrètement pourquoi un ransomware "fait maison" échoue,
-> et donc ce qu'un composant malveillant réel doit contourner pour être efficace. Usage strictement
-> pédagogique, en VM dédiée.
+### 🔍 [LDAP-App-Role-Audit](https://github.com/Anne-LaureS/LDAP-App-Role-Audit)
+> Script PowerShell d'audit d'accès applicatifs via LDAP : authentification + sélection des
+> applications par popups, recherche récursive application → rôles → membres, export CSV
+> (nom, description, nombre et identité des membres par rôle). Testé de bout en bout contre
+> un serveur LDAP réel avant publication, bugs rencontrés documentés (byte[] vs string,
+> marshalling `params string[]`).
 >
-> `Python` `Malware Analysis` `C2` `Sockets TCP` `Lab isolé`
+> `PowerShell` `LDAP` `IAM` `Access Audit` `LDAPS`
 
 ---
 
