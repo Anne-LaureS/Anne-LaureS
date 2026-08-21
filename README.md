@@ -1,26 +1,24 @@
-<h1 align="center">🛡️ Anne-Laure 🌺</h1>
-<h3 align="center">Cybersecurity & Cloud Computing</h3>
+<div align="center">
+
+# 🛡️ Anne-LaureS 🌺
+
+### Cybersecurity & Cloud Computing
+
+```text
+╔══════════════════════════════════════════════════════════════════════════╗
+║  --> IAM Governance, Cloud Security & DevSecOps Research                 ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+[![TryHackMe Top 2%](https://img.shields.io/badge/TryHackMe-Top_2%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
+[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-201_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-command-stats)
+[![Badges](https://img.shields.io/badge/THM_Badges-37_Badges-purple?style=for-the-badge)](#-tryhackme-command-stats)
 
 ---
 
-### 🧰 Tech Stack & Arsenal
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 🧬 Operator Profile
+## 🧬 Operator Profile
 
 ```yaml
 Operator : "Anne-LaureS"
@@ -35,80 +33,83 @@ Focus_Areas:
 Current_Mission: "Attachée Sécurité Informatique spécialiste IAM & CTI"
 ```
 
-```
-╔════════════════════════════════════════════════════════════╗
-║    [STATUS: IAM & CTI Specialist | Cybersecurity Trainee]    ║
-║     IAM Governance, Cloud Security & DevSecOps Research      ║
-╚════════════════════════════════════════════════════════════╝
-```
+---
+
+## 🛠️ Featured Security Projects
+
+### 🔐 [Pipeline-DevSecOps](https://github.com/Anne-LaureS/Pipeline-DevSecOps)
+> Pipeline Terraform/GitHub Actions sécurisé : fédération OIDC (zéro credential permanent), deux
+> rôles IAM scopés par claim `sub` du jeton, policy-as-code bloquante (Conftest/OPA), tests négatifs
+> documentés — pas juste affirmés.
+>
+> `Terraform` `GitHub Actions` `OIDC` `IAM` `OPA/Conftest`
+
+### ☸️ [Kubernetes-Kind-HA-Lab](https://github.com/Anne-LaureS/Kubernetes-Kind-HA-Lab)
+> Cluster Kubernetes multi-nœuds (KinD) : Ingress NGINX, déploiements v1/v2, autoscaling, stack de
+> monitoring complet (Prometheus, Grafana, Alertmanager, Elasticsearch).
+>
+> `Kubernetes` `Docker` `Prometheus` `Grafana` `Elasticsearch`
+
+### ⚙️ [Pipeline-Jenkins](https://github.com/Anne-LaureS/Pipeline-Jenkins)
+> Catalogue de jobs Jenkins/Ansible/AWS traçables (inventaire, déploiement, nettoyage) — rôles
+> séparés par credential, rollback prouvé de bout en bout artefact → nettoyage.
+>
+> `Jenkins` `Ansible` `AWS` `IAM`
+
+### ☁️ [Azure-HA-Web-Powershell-Deployment](https://github.com/Anne-LaureS/Azure-HA-Web-Powershell-Deployment)
+> Architecture web haute disponibilité sur Azure : load balancing, VMs, monitoring et budgeting.
+>
+> `Azure` `PowerShell` `High Availability`
 
 ---
 
-### 🛠️ Featured Security Projects
+## 🏆 TryHackMe Command Stats
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔐 [Pipeline-DevSecOps](https://github.com/Anne-LaureS/Pipeline-DevSecOps)**
-Pipeline Terraform/GitHub Actions sécurisé : fédération OIDC (zéro credential permanent), deux
-rôles IAM scopés par claim `sub` du jeton, policy-as-code bloquante (Conftest/OPA), tests négatifs
-documentés — pas juste affirmés.
-
-</td>
-<td width="50%" valign="top">
-
-**☸️ [Kubernetes-Kind-HA-Lab](https://github.com/Anne-LaureS/Kubernetes-Kind-HA-Lab)**
-Cluster Kubernetes multi-nœuds (KinD) : Ingress NGINX, déploiements v1/v2, autoscaling, stack de
-monitoring complet (Prometheus, Grafana, Alertmanager, Elasticsearch).
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⚙️ [Pipeline-Jenkins](https://github.com/Anne-LaureS/Pipeline-Jenkins)**
-Catalogue de jobs Jenkins/Ansible/AWS traçables (inventaire, déploiement, nettoyage) — rôles
-séparés par credential, rollback prouvé de bout en bout artefact → nettoyage.
-
-</td>
-<td width="50%" valign="top">
-
-**☁️ [Azure-HA-Web-Powershell-Deployment](https://github.com/Anne-LaureS/Azure-HA-Web-Powershell-Deployment)**
-Architecture web haute disponibilité sur Azure : load balancing, VMs, monitoring et budgeting.
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏆 TryHackMe Achievements
+<div align="center">
 
 | Rank | Rooms Completed | Badges Earned | Streak |
 | :---: | :---: | :---: | :---: |
 | 🥈 **Top 2%** (#27807) | **201** | **37** | 0 |
 
-<p align="center">🚩 <a href="https://tryhackme.com/p/Ann3LAu43">Voir le profil complet</a></p>
+</div>
 
 ---
 
-### 📊 Stats
+## 💻 Tech Stack & Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anne-LaureS&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Statistiques GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anne-LaureS&layout=compact&theme=default&hide_border=true" alt="Langages les plus utilisés" height="165" />
-</p>
+#### ⚡ Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
-### 📡 Connect & Contact
+## 📊 GitHub Tactical Metrics
 
-<p align="center">
-  <a href="https://github.com/Anne-LaureS">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/annelaures/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Anne-LaureS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anne-LaureS&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect & Signal
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annelaures/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anne-LaureS)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-222222?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
+
+</div>
