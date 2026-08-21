@@ -66,6 +66,15 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `Azure` `PowerShell` `High Availability`
 
+### 🦠 [Ransomware-en-Python](https://github.com/Anne-LaureS/Ransomware-en-Python)
+> Simulateur pédagogique de ransomware (client + serveur C2, chiffrement XOR) en environnement de
+> lab isolé — les faiblesses volontaires (chiffrement trivial à inverser, trafic non chiffré,
+> absence d'authentification) illustrent concrètement pourquoi un ransomware "fait maison" échoue,
+> et donc ce qu'un composant malveillant réel doit contourner pour être efficace. Usage strictement
+> pédagogique, en VM dédiée.
+>
+> `Python` `Malware Analysis` `C2` `Sockets TCP` `Lab isolé`
+
 ---
 
 ## 🏆 TryHackMe Achievements
