@@ -68,11 +68,13 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `Terraform` `GitHub Actions` `OIDC` `IAM` `OPA/Conftest`
 
-### ⚙️ [Pipeline-Jenkins](https://github.com/Anne-LaureS/Pipeline-Jenkins)
-> Catalogue de jobs Jenkins/Ansible/AWS traçables (inventaire, déploiement, nettoyage) — rôles
-> séparés par credential, rollback prouvé de bout en bout artefact → nettoyage.
+### 🐳 [De-l-image-au-Cloud](https://github.com/Anne-LaureS/De-l-image-au-Cloud)
+> Image Nginx durcie (rootfs read-only, capabilities droppées, en-têtes OWASP) publiée sur Amazon
+> ECR et exécutée sur AWS ECS Fargate — déploiement référencé par digest, jamais par tag mutable :
+> test d'immutabilité documenté avec un parallèle explicite sur l'incident de supply chain
+> tj-actions. Scan de vulnérabilités Trivy inclus.
 >
-> `Jenkins` `Ansible` `AWS` `IAM`
+> `Docker` `Terraform` `AWS ECR` `ECS Fargate` `Supply Chain Security`
 
 ### ☁️ [Azure-HA-Web-Powershell-Deployment](https://github.com/Anne-LaureS/Azure-HA-Web-Powershell-Deployment)
 > Architecture web haute disponibilité sur Azure : load balancing, VMs, monitoring et budgeting.
