@@ -81,7 +81,7 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 > complet (Prometheus/Grafana/Alertmanager), stack Elastic (Elasticsearch/Metricbeat) et SIEM
 > Wazuh — scripts et documentation de bout en bout.
 >
-> `Kubernetes` `KinD` `Prometheus` `Grafana` `Wazuh SIEM`
+> `Kubernetes` `KinD` `Prometheus` `Grafana` `Elasticsearch` `Wazuh SIEM`
 
 ---
 
