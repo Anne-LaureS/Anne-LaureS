@@ -1,13 +1,13 @@
-<h1 align="center">Anne-Laure 🌺</h1>
+<h1 align="center">🌺 Anne-Laure ⚡</h1>
 <h3 align="center">🛡️ IAM & Cloud Security · AWS · Kubernetes · Terraform</h3>
 
 ---
 
 ### 🎯 Operator Profile
 
-Expertise IAM en entreprise, en reconversion/montée en compétences sur le Cloud et le DevSecOps —
-conception d'accès moindre-privilège, fédération d'identité sans secret statique, et pipelines
-CI/CD qui bloquent réellement ce qu'ils sont censés bloquer.
+En formation expertise Cybersécurité et Cloud Computing, avec une expérience professionnelle solide
+en IAM (déploiement, architecture) — conception d'accès moindre-privilège, fédération d'identité
+sans secret statique, et pipelines CI/CD qui bloquent réellement ce qu'ils sont censés bloquer.
 
 ```
 ⚡ IAM & Access Governance Expertise
