@@ -1,31 +1,26 @@
-<h1 align="center">🌺 Anne-Laure ⚡</h1>
+<h1 align="center">🛡️ Anne-Laure 🌺</h1>
 <h3 align="center">Cybersecurity & Cloud Computing</h3>
 
 ---
 
-### 🎯 Operator Profile
+### 🧬 Operator Profile
 
-En formation expertise Cybersécurité et Cloud Computing, avec une expérience professionnelle solide
-en IAM (déploiement, architecture) — conception d'accès moindre-privilège, fédération d'identité
-sans secret statique, et pipelines CI/CD qui bloquent réellement ce qu'ils sont censés bloquer.
-
-```
-🛡️ IAM & Cloud Security · AWS · Kubernetes · Terraform
+```yaml
+Operator : "Anne-LaureS"
+Status: "En formation — Expertise Cybersécurité & Cloud Computing"
+Focus_Areas:
+- IAM & Access Governance Expertise
+- Cloud Security
+- AWS
+- Kubernetes
+- Terraform
+- Ansible
+Current_Mission: "Attachée Sécurité Informatique spécialiste IAM & CTI"
 ```
 
 ---
 
-### 🏆 TryHackMe Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Top%202%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
-</p>
-
-<p align="center">🚩 <a href="https://tryhackme.com/p/Ann3LAu43">Voir le profil complet</a></p>
-
----
-
-### 🛠️ Tech Stack & Arsenal
+### 🧰 Tech Stack & Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
@@ -42,7 +37,7 @@ sans secret statique, et pipelines CI/CD qui bloquent réellement ce qu'ils sont
 
 ---
 
-### 🚀 Projets en avant
+### 🛠️ Featured Security Projects
 
 <table>
 <tr>
@@ -78,6 +73,16 @@ Architecture web haute disponibilité sur Azure : load balancing, VMs, monitorin
 </td>
 </tr>
 </table>
+
+---
+
+### 🏆 TryHackMe Achievements
+
+| Rank | Rooms Completed | Badges Earned | Streak |
+| :---: | :---: | :---: | :---: |
+| 🥈 **Top 2%** (#27807) | **201** | **37** | 0 |
+
+<p align="center">🚩 <a href="https://tryhackme.com/p/Ann3LAu43">Voir le profil complet</a></p>
 
 ---
 
