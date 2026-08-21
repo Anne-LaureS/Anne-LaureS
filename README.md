@@ -11,8 +11,8 @@
 ```
 
 [![TryHackMe Top 2%](https://img.shields.io/badge/TryHackMe-Top_2%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
-[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-201_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-command-stats)
-[![Badges](https://img.shields.io/badge/THM_Badges-37_Badges-purple?style=for-the-badge)](#-tryhackme-command-stats)
+[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-201_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-achievements)
+[![Badges](https://img.shields.io/badge/THM_Badges-37_Badges-purple?style=for-the-badge)](#-tryhackme-achievements)
 
 ---
 
@@ -68,7 +68,7 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 ---
 
-## 🏆 TryHackMe Command Stats
+## 🏆 TryHackMe Achievements
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 ---
 
-## 📊 GitHub Tactical Metrics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 ---
 
-## 🌐 Connect & Signal
+## 📡 Connect & Contact
 
 <div align="center">
 
