@@ -76,10 +76,12 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `Docker` `Terraform` `AWS ECR` `ECS Fargate` `Supply Chain Security`
 
-### ☁️ [Azure-HA-Web-Powershell-Deployment](https://github.com/Anne-LaureS/Azure-HA-Web-Powershell-Deployment)
-> Architecture web haute disponibilité sur Azure : load balancing, VMs, monitoring et budgeting.
+### ☸️ [Kubernetes-Kind-HA-Lab](https://github.com/Anne-LaureS/Kubernetes-Kind-HA-Lab)
+> Cluster Kubernetes HA reproductible (KinD) : ingress NGINX, déploiements v1/v2, monitoring
+> complet (Prometheus/Grafana/Alertmanager), stack Elastic (Elasticsearch/Metricbeat) et SIEM
+> Wazuh — scripts et documentation de bout en bout.
 >
-> `Azure` `PowerShell` `High Availability`
+> `Kubernetes` `KinD` `Prometheus` `Grafana` `Wazuh SIEM`
 
 ---
 
