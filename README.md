@@ -30,7 +30,7 @@ Focus_Areas:
 - Cloud Security (AWS · Azure)
 - Compliance & Security Project Management
 - SecOps
-- Infrastructure as Code (Terraform, Ansible, Kubernetes)
+- Infrastructure as Code (Terraform, Ansible, Kubernetes, Jenkins)
 Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 ```
 
