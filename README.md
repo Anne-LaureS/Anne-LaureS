@@ -126,17 +126,6 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Anne-LaureS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anne-LaureS&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📡 Connect & Contact
 
 <div align="center">
