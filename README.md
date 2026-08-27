@@ -6,8 +6,8 @@
 
 <img src="banner.svg" alt="GRC · IAM Governance · Cloud Security · SecOps" />
 
-[![TryHackMe Top 2%](https://img.shields.io/badge/TryHackMe-Top_2%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
-[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-208_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-achievements)
+[![TryHackMe Top 1%](https://img.shields.io/badge/TryHackMe-Top_1%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
+[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-209_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-achievements)
 [![Badges](https://img.shields.io/badge/THM_Badges-39_Badges-purple?style=for-the-badge)](#-tryhackme-achievements)
 
 ---
@@ -91,7 +91,7 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 | Rank | Rooms Completed | Badges Earned | Streak |
 | :---: | :---: | :---: | :---: |
-| 🥈 **Top 2%** (#26121) | **208** | **39** | 7 |
+| 🥇 **Top 1%** (#25932) | **209** | **39** | 7 |
 
 </div>
 
