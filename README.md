@@ -38,6 +38,15 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 ## 🛠️ Featured Security Projects
 
+### 🔑 [Okta-SSO-Debug-Lab](https://github.com/Anne-LaureS/Okta-SSO-Debug-Lab)
+> Procédure de debug SSO de bout en bout contre un tenant Okta réel : une app OIDC
+> (`client_credentials`, JWT/JWKS, `private_key_jwt`) et une app SAML 2.0 (assertions,
+> bindings, signature XML), avec une collection Bruno qui automatise chaque étape de
+> vérification. Le flow OIDC est rejoué automatiquement en CI (GitHub Actions) — le badge
+> reflète un test qui échoue réellement si le flow casse, pas juste une affirmation.
+>
+> `Okta` `OIDC` `SAML 2.0` `JWT/JWKS` `Bruno CLI` `GitHub Actions`
+
 ### 🔁 [IAM-Access-Recertification](https://github.com/Anne-LaureS/IAM-Access-Recertification)
 > Boîte à outils de gouvernance des accès IAM inspirée des campagnes de recertification type
 > SailPoint : détection de violations de séparation des tâches (SoD), repérage des rôles
