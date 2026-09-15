@@ -7,7 +7,7 @@
 <img src="banner.svg" alt="GRC · IAM Governance · Cloud Security · SecOps" />
 
 [![TryHackMe Top 1%](https://img.shields.io/badge/TryHackMe-Top_1%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
-[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-220_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-achievements)
+[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-221_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-achievements)
 [![Badges](https://img.shields.io/badge/THM_Badges-41_Badges-purple?style=for-the-badge)](#-tryhackme-achievements)
 
 ---
@@ -118,7 +118,7 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 | Rank | Rooms Completed | Badges Earned | Streak |
 | :---: | :---: | :---: | :---: |
-| 🥇 **Top 1%** (#21754) | **220** | **41** | 25 |
+| 🥇 **Top 1%** (#21585) | **221** | **41** | 26 |
 
 </div>
 
@@ -141,6 +141,7 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 #### 🔐 IAM & Security
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![LDAP](https://img.shields.io/badge/LDAP-IAM%20Audit-0d1117?style=for-the-badge)
 ![OIDC](https://img.shields.io/badge/OIDC-Federation-0d1117?style=for-the-badge)
 ![LDAPS](https://img.shields.io/badge/LDAPS-Encrypted%20Bind-0d1117?style=for-the-badge)
