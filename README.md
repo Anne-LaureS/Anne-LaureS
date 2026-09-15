@@ -55,6 +55,15 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `PowerShell` `IAM Governance` `SoD` `Access Recertification`
 
+### 🔄 [IAM-JML-Lifecycle](https://github.com/Anne-LaureS/IAM-JML-Lifecycle)
+> Automatisation Joiner/Mover/Leaver sur Active Directory : création de compte avec accès de
+> base par département, mise à jour lors d'un changement de poste, désactivation complète à la
+> sortie — y compris la gestion du matériel perdu/retrouvé/non rendu. Ferme le cycle de vie que
+> `LDAP-App-Role-Audit` et `IAM-Access-Recertification` laissent ouvert : ces deux repos
+> détectent et décident quoi faire, celui-ci exécute réellement dans l'annuaire.
+>
+> `PowerShell` `Active Directory` `IAM Lifecycle` `Provisioning`
+
 ### 🔍 [LDAP-App-Role-Audit](https://github.com/Anne-LaureS/LDAP-App-Role-Audit)
 > Script PowerShell d'audit d'accès applicatifs via LDAP : authentification + sélection des
 > applications par popups, recherche récursive application → rôles → membres, export CSV
