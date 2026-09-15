@@ -47,6 +47,15 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `Okta` `OIDC` `SAML 2.0` `JWT/JWKS` `Bruno CLI` `GitHub Actions`
 
+### 🗝️ [AD-LDAP-Bind-Debug-Lab](https://github.com/Anne-LaureS/AD-LDAP-Bind-Debug-Lab)
+> Pendant "legacy" d'Okta-SSO-Debug-Lab : debug de l'authentification par bind LDAP direct
+> contre Active Directory, toujours répandue en entreprise à côté du SSO fédéré. Traduit les
+> codes d'erreur AD étendus (`data 52e`, `533`, `701`, `775`...) en diagnostic humain, avec un
+> runbook de 8 scénarios de panne (compte désactivé/expiré/verrouillé, bind anonyme, LDAPS non
+> configuré...) reproductibles à la demande et testés pour de vrai contre un AD réel.
+>
+> `PowerShell` `Active Directory` `LDAP` `Legacy Auth`
+
 ### 🔁 [IAM-Access-Recertification](https://github.com/Anne-LaureS/IAM-Access-Recertification)
 > Boîte à outils de gouvernance des accès IAM inspirée des campagnes de recertification type
 > SailPoint : détection de violations de séparation des tâches (SoD), repérage des rôles
