@@ -38,6 +38,14 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 ## 🛠️ Featured Security Projects
 
+### 🧭 [IAM-Governance-Roadmap](https://github.com/Anne-LaureS/IAM-Governance-Roadmap)
+> Le volet pilotage du programme IAM ci-dessous : roadmap en phases (Visibilité → Gouvernance →
+> Automatisation → Authentification → Pilotage continu), RACI, comité de pilotage, KPIs
+> calculables à partir des sorties réelles des scripts — chaque phase reliée au repo technique
+> qui la livre concrètement.
+>
+> `IAM Governance` `Program Management` `RACI` `KPIs` `Mermaid`
+
 ### 🔑 [Okta-SSO-Debug-Lab](https://github.com/Anne-LaureS/Okta-SSO-Debug-Lab)
 > Procédure de debug SSO de bout en bout contre un tenant Okta réel : une app OIDC
 > (`client_credentials`, JWT/JWKS, `private_key_jwt`) et une app SAML 2.0 (assertions,
