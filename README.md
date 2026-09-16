@@ -98,6 +98,13 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `PowerShell` `LDAP` `IAM` `Access Audit` `LDAPS`
 
+### 🎯 [SOC-Lab-Vulnerability-Assessment](https://github.com/Anne-LaureS/SOC-Lab-Vulnerability-Assessment)
+> Rapport de test d'intrusion complet (méthodologie PTES + OWASP) contre un lab Metasploitable3 :
+> 11 vulnérabilités critiques (EternalBlue, BlueKeep, GhostCat, injection SQL, XSS...), chaîne
+> d'exploitation de bout en bout jusqu'à l'accès SYSTEM/root, remédiations vérifiées.
+>
+> `PTES` `Metasploit` `Kali Linux` `CVE` `Pentest`
+
 ---
 
 ## 🏆 TryHackMe Achievements
