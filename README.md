@@ -82,6 +82,14 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `PowerShell` `Active Directory` `Okta` `IAM Lifecycle` `Provisioning`
 
+### ⏱️ [IAM-JIT-PAM](https://github.com/Anne-LaureS/IAM-JIT-PAM)
+> Premier volet PAM (Privileged Access Management) : accès juste-à-temps sur Active Directory —
+> appartenance à un groupe à privilège accordée pour une durée limitée et une justification
+> obligatoires, avec révocation automatique à l'expiration via un registre d'accords, faute de
+> mécanisme natif AD accessible sans forêt bastion séparée.
+>
+> `PowerShell` `Active Directory` `PAM` `Just-In-Time Access`
+
 ### 🔍 [LDAP-App-Role-Audit](https://github.com/Anne-LaureS/LDAP-App-Role-Audit)
 > Script PowerShell d'audit d'accès applicatifs via LDAP : authentification + sélection des
 > applications par popups, recherche récursive application → rôles → membres, export CSV
