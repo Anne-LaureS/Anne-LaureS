@@ -77,9 +77,10 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 > base par département, mise à jour lors d'un changement de poste, désactivation complète à la
 > sortie — y compris la gestion du matériel perdu/retrouvé/non rendu. Ferme le cycle de vie que
 > `LDAP-App-Role-Audit` et `IAM-Access-Recertification` laissent ouvert : ces deux repos
-> détectent et décident quoi faire, celui-ci exécute réellement dans l'annuaire.
+> détectent et décident quoi faire, celui-ci exécute réellement dans l'annuaire. V2 : chaque
+> événement se synchronise aussi vers Okta, testé contre un tenant réel.
 >
-> `PowerShell` `Active Directory` `IAM Lifecycle` `Provisioning`
+> `PowerShell` `Active Directory` `Okta` `IAM Lifecycle` `Provisioning`
 
 ### 🔍 [LDAP-App-Role-Audit](https://github.com/Anne-LaureS/LDAP-App-Role-Audit)
 > Script PowerShell d'audit d'accès applicatifs via LDAP : authentification + sélection des
