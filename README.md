@@ -150,6 +150,7 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 #### 🔐 IAM & Security
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![LDAP](https://img.shields.io/badge/LDAP-IAM%20Audit-0d1117?style=for-the-badge)
 ![OIDC](https://img.shields.io/badge/OIDC-Federation-0d1117?style=for-the-badge)
 ![LDAPS](https://img.shields.io/badge/LDAPS-Encrypted%20Bind-0d1117?style=for-the-badge)
