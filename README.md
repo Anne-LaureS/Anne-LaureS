@@ -6,10 +6,6 @@
 
 <img src="banner.svg" alt="GRC · IAM Governance · Cloud Security · SecOps" />
 
-[![TryHackMe Top 1%](https://img.shields.io/badge/TryHackMe-Top_1%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
-[![Rooms Solved](https://img.shields.io/badge/THM_Rooms-225_Solved-00b4d8?style=for-the-badge&logo=tryhackme&logoColor=white)](#-tryhackme-achievements)
-[![Badges](https://img.shields.io/badge/THM_Badges-41_Badges-purple?style=for-the-badge)](#-tryhackme-achievements)
-
 ---
 
 </div>
@@ -108,18 +104,6 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 ---
 
-## 🏆 TryHackMe Achievements
-
-<div align="center">
-
-| Rank | Rooms Completed | Badges Earned | Streak |
-| :---: | :---: | :---: | :---: |
-| 🥇 **Top 1%** (#20995) | **225** | **41** | 27 |
-
-</div>
-
----
-
 ## 💻 Tech Stack & Arsenal
 
 #### ⚡ Languages
@@ -148,6 +132,20 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge)
 ![PTES](https://img.shields.io/badge/PTES-0d1117?style=for-the-badge)
+
+---
+
+## 🏆 TryHackMe Achievements
+
+<div align="center">
+
+[![TryHackMe Top 1%](https://img.shields.io/badge/TryHackMe-Top_1%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
+
+| Rank | Rooms Completed | Badges Earned | Streak |
+| :---: | :---: | :---: | :---: |
+| 🥇 **Top 1%** (#20995) | **225** | **41** | 27 |
+
+</div>
 
 ---
 
