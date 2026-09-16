@@ -98,35 +98,6 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `PowerShell` `LDAP` `IAM` `Access Audit` `LDAPS`
 
-### 🎯 [SOC-Lab-Vulnerability-Assessment](https://github.com/Anne-LaureS/SOC-Lab-Vulnerability-Assessment)
-> Rapport de test d'intrusion complet (méthodologie PTES + OWASP) contre un lab Metasploitable3 :
-> 11 vulnérabilités critiques (EternalBlue, BlueKeep, GhostCat, injection SQL, XSS...), chaîne
-> d'exploitation de bout en bout jusqu'à l'accès SYSTEM/root, remédiations vérifiées.
->
-> `PTES` `Metasploit` `Kali Linux` `CVE` `Pentest`
-
-### 🔐 [Pipeline-DevSecOps](https://github.com/Anne-LaureS/Pipeline-DevSecOps)
-> Pipeline Terraform/GitHub Actions sécurisé : fédération OIDC (zéro credential permanent), deux
-> rôles IAM scopés par claim `sub` du jeton, policy-as-code bloquante (Conftest/OPA), tests négatifs
-> documentés — pas juste affirmés.
->
-> `Terraform` `GitHub Actions` `OIDC` `IAM` `OPA/Conftest`
-
-### 🐳 [De-l-image-au-Cloud](https://github.com/Anne-LaureS/De-l-image-au-Cloud)
-> Image Nginx durcie (rootfs read-only, capabilities droppées, en-têtes OWASP) publiée sur Amazon
-> ECR et exécutée sur AWS ECS Fargate — déploiement référencé par digest, jamais par tag mutable :
-> test d'immutabilité documenté avec un parallèle explicite sur l'incident de supply chain
-> tj-actions. Scan de vulnérabilités Trivy inclus.
->
-> `Docker` `Terraform` `AWS ECR` `ECS Fargate` `Supply Chain Security`
-
-### ☸️ [Kubernetes-Kind-HA-Lab](https://github.com/Anne-LaureS/Kubernetes-Kind-HA-Lab)
-> Cluster Kubernetes HA reproductible (KinD) : ingress NGINX, déploiements v1/v2, monitoring
-> complet (Prometheus/Grafana/Alertmanager), stack Elastic (Elasticsearch/Metricbeat) et SIEM
-> Wazuh — scripts et documentation de bout en bout.
->
-> `Kubernetes` `KinD` `Prometheus` `Grafana` `Elasticsearch` `Wazuh SIEM`
-
 ---
 
 ## 🏆 TryHackMe Achievements
