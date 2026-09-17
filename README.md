@@ -143,7 +143,7 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 | Rank | Rooms Completed | Badges Earned | Streak |
 | :---: | :---: | :---: | :---: |
-| 🥇 **Top 1%** (#20995) | **225** | **41** | 27 |
+| 🥇 **Top 1%** (#20584) | **226** | **41** | 28 |
 
 </div>
 
