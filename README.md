@@ -95,6 +95,15 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `PowerShell` `LDAP` `IAM` `Access Audit` `LDAPS`
 
+### ☸️ [Kubernetes-Kind-HA-Lab](https://github.com/Anne-LaureS/Kubernetes-Kind-HA-Lab)
+> Cluster Kubernetes HA reproductible (KinD, 1 control-plane + 2 workers) avec Ingress NGINX,
+> stack d'observabilité complète (Prometheus/Grafana/Alertmanager via Helm, dashboards et
+> règles d'alerte provisionnés par API plutôt qu'à la main) et SIEM Wazuh déployé en
+> production (indexer, cluster de managers, dashboard, TLS) — Elasticsearch/Metricbeat pour
+> la santé du cluster lui-même.
+>
+> `Kubernetes` `Helm` `Prometheus/Grafana` `Wazuh SIEM` `Elasticsearch` `Observability`
+
 ### 🎯 [SOC-Lab-Vulnerability-Assessment](https://github.com/Anne-LaureS/SOC-Lab-Vulnerability-Assessment)
 > Rapport de test d'intrusion complet (méthodologie PTES + OWASP) contre un lab Metasploitable3 :
 > 11 vulnérabilités critiques (EternalBlue, BlueKeep, GhostCat, injection SQL, XSS...), chaîne
