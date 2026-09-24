@@ -37,10 +37,11 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 ### 🧭 [IAM-Governance-Roadmap](https://github.com/Anne-LaureS/IAM-Governance-Roadmap)
 > Le volet pilotage du programme IAM ci-dessous : roadmap en phases (Visibilité → Gouvernance →
 > Automatisation → Authentification → Pilotage continu), RACI, comité de pilotage, KPIs
-> calculables à partir des sorties réelles des scripts — chaque phase reliée au repo technique
-> qui la livre concrètement.
+> calculés automatiquement à partir des sorties réelles des scripts et affichés dans un
+> [dashboard Access Risk en ligne](https://anne-laures.github.io/IAM-Governance-Roadmap/) —
+> chaque phase reliée au repo technique qui la livre concrètement.
 >
-> `IAM Governance` `Program Management` `RACI` `KPIs` `Mermaid`
+> `IAM Governance` `Program Management` `RACI` `KPIs` `Dashboard` `Mermaid`
 
 ### 🔑 [Okta-SSO-Debug-Lab](https://github.com/Anne-LaureS/Okta-SSO-Debug-Lab)
 > Procédure de debug SSO de bout en bout contre un tenant Okta réel : une app OIDC
@@ -63,10 +64,11 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 ### 🔁 [IAM-Access-Recertification](https://github.com/Anne-LaureS/IAM-Access-Recertification)
 > Boîte à outils de gouvernance des accès IAM inspirée des campagnes de recertification type
 > SailPoint : détection de violations de séparation des tâches (SoD), repérage des rôles
-> "alibi" quasi-inutilisés, génération et traitement de campagnes de recertification. Ferme la
-> boucle sur les données produites par `LDAP-App-Role-Audit`.
+> "alibi" quasi-inutilisés, détection des comptes dormants, génération et traitement de
+> campagnes de recertification. Ferme la boucle sur les données produites par
+> `LDAP-App-Role-Audit`.
 >
-> `PowerShell` `IAM Governance` `SoD` `Access Recertification`
+> `PowerShell` `IAM Governance` `SoD` `Dormant Accounts` `Access Recertification`
 
 ### 🔄 [IAM-JML-Lifecycle](https://github.com/Anne-LaureS/IAM-JML-Lifecycle)
 > Automatisation Joiner/Mover/Leaver sur Active Directory : création de compte avec accès de
@@ -90,8 +92,8 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 ### 🔍 [LDAP-App-Role-Audit](https://github.com/Anne-LaureS/LDAP-App-Role-Audit)
 > Script PowerShell d'audit d'accès applicatifs via LDAP : authentification + sélection des
 > applications par popups, recherche récursive application → rôles → membres, export CSV
-> (nom, description, nombre et identité des membres par rôle). Testé de bout en bout contre
-> un serveur LDAP réel avant publication.
+> (nom, description, nombre et identité des membres par rôle), plus un inventaire des comptes
+> en lecture seule. Testé de bout en bout contre un serveur LDAP réel avant publication.
 >
 > `PowerShell` `LDAP` `IAM` `Access Audit` `LDAPS`
 
