@@ -165,9 +165,9 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 
 [![TryHackMe Top 1%](https://img.shields.io/badge/TryHackMe-Top_1%25_🏆-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ann3LAu43)
 
-| Rank | Rooms Completed | Badges Earned | Streak |
-| :---: | :---: | :---: | :---: |
-| 🥇 **Top 1%** (#19758) | **226** | **42** | 50 |
+| Rank | Rooms Completed | Badges Earned |
+| :---: | :---: | :---: |
+| 🥇 **Top 1%** (#19758) | **226** | **42** |
 
 </div>
 
