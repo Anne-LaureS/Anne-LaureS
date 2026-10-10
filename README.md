@@ -22,7 +22,7 @@ Career_Path:
 - Administratrice SecOps — spécialité macOS
 - Attachée Sécurité Informatique — spécialiste IAM (poste actuel)
 Focus_Areas:
-- IAM & Access Governance
+- IAM : gouvernance des accès (recertification, SoD, JML) · PAM (JIT, vault) · Fédération & SSO (Okta, OIDC, SAML, AD)
 - Cloud Security (AWS · Azure)
 - Compliance & Security Project Management
 - SecOps
@@ -97,14 +97,25 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 >
 > `PowerShell` `LDAP` `IAM` `Access Audit` `LDAPS`
 
-### ☸️ [Kubernetes-Kind-HA-Lab](https://github.com/Anne-LaureS/Kubernetes-Kind-HA-Lab)
-> Cluster Kubernetes HA reproductible (KinD, 1 control-plane + 2 workers) avec Ingress NGINX,
-> stack d'observabilité complète (Prometheus/Grafana/Alertmanager via Helm, dashboards et
-> règles d'alerte provisionnés par API plutôt qu'à la main) et SIEM Wazuh déployé en
-> production (indexer, cluster de managers, dashboard, TLS) — Elasticsearch/Metricbeat pour
-> la santé du cluster lui-même.
+### 🔐 [Kubernetes-Kind-HA-Lab](https://github.com/Anne-LaureS/Kubernetes-Kind-HA-Lab)
+> Cluster Kubernetes HA reproductible (KinD, 1 control-plane + 2 workers) avec SSO Okta devant les
+> services exposés : application OIDC dédiée (Authorization Code + PKCE, affectation par
+> utilisateur, Federation Broker Mode désactivé), oauth2-proxy et ingress-nginx, session de 3 h,
+> secret client en Secret Kubernetes. Autour : observabilité complète (Prometheus/Grafana/
+> Alertmanager via Helm, dashboards et alertes provisionnés par API et CI), SIEM Wazuh (managers
+> master + worker, indexer, TLS générés) et Elasticsearch/Metricbeat pour la santé du cluster.
 >
-> `Kubernetes` `Helm` `Prometheus/Grafana` `Wazuh SIEM` `Elasticsearch` `Observability`
+> `Kubernetes HA` `Okta SSO` `OIDC` `PKCE` `oauth2-proxy` `Ingress NGINX` `Helm` `Prometheus/Grafana` `Wazuh SIEM` `Observability`
+
+### 🪪 [Pipeline-DevSecOps](https://github.com/Anne-LaureS/Pipeline-DevSecOps)
+> Identité de workload sans secret permanent : fédération OIDC GitHub ↔ AWS, deux rôles IAM aux
+> trust policies distinctes (`sub` en `StringEquals` : `pull_request` pour la lecture, environment
+> protégé pour l'écriture), moindre privilège EC2. Policy as code bloquante en CI : 4 règles EC2
+> (valeur inconnue = refusée) et 13 règles Rego sur trust policies et permissions, 87 tests. Faute
+> de compte AWS, LocalStack accepte n'importe quel jeton : la décision d'AWS est **simulée** sur 10
+> jetons et la limite documentée. La revue critique a fermé 13 cas non détectés et un bug de `sub`.
+>
+> `OIDC Federation` `IAM Trust Policy` `Least Privilege` `Policy as Code` `Conftest/OPA` `Terraform` `LocalStack`
 
 ### 🎯 [SOC-Lab-Vulnerability-Assessment](https://github.com/Anne-LaureS/SOC-Lab-Vulnerability-Assessment)
 > Rapport de test d'intrusion complet (méthodologie PTES + OWASP) contre un lab Metasploitable3 :
