@@ -110,7 +110,7 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 ### 🪪 [Pipeline-DevSecOps](https://github.com/Anne-LaureS/Pipeline-DevSecOps)
 > Fédération OIDC GitHub ↔ AWS sans secret permanent : deux rôles IAM aux trust policies distinctes
 > (`sub` immuable en `StringEquals`, moindre privilège EC2), 4 règles EC2 qui refusent l'inconnu et
-> 13 règles Rego sur trust policies et permissions, 90 tests. Faute de compte AWS, la décision d'AWS
+> 14 règles Rego sur trust policies et permissions, 93 tests. Faute de compte AWS, la décision d'AWS
 > est **simulée** sur 10 jetons puis **recoupée par OpenBao avec de vrais jetons GitHub** en CI : ce
 > test a révélé que le `sub` réel portait des identifiants numériques absents de la trust policy,
 > corrigé et verrouillé par une vérification d'intention.
