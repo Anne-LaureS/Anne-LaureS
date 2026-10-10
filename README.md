@@ -108,14 +108,14 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 > `Kubernetes HA` `Okta SSO` `OIDC` `PKCE` `oauth2-proxy` `Ingress NGINX` `Helm` `Prometheus/Grafana` `Wazuh SIEM` `Observability`
 
 ### 🪪 [Pipeline-DevSecOps](https://github.com/Anne-LaureS/Pipeline-DevSecOps)
-> Identité de workload sans secret permanent : fédération OIDC GitHub ↔ AWS, deux rôles IAM aux
-> trust policies distinctes (`sub` en `StringEquals` : `pull_request` pour la lecture, environment
-> protégé pour l'écriture), moindre privilège EC2. Policy as code bloquante en CI : 4 règles EC2
-> (valeur inconnue = refusée) et 13 règles Rego sur trust policies et permissions, 87 tests. Faute
-> de compte AWS, LocalStack accepte n'importe quel jeton : la décision d'AWS est **simulée** sur 10
-> jetons et la limite documentée. La revue critique a fermé 13 cas non détectés et un bug de `sub`.
+> Fédération OIDC GitHub ↔ AWS sans secret permanent : deux rôles IAM aux trust policies distinctes
+> (`sub` immuable en `StringEquals`, moindre privilège EC2), 4 règles EC2 qui refusent l'inconnu et
+> 13 règles Rego sur trust policies et permissions, 90 tests. Faute de compte AWS, la décision d'AWS
+> est **simulée** sur 10 jetons puis **recoupée par OpenBao avec de vrais jetons GitHub** en CI : ce
+> test a révélé que le `sub` réel portait des identifiants numériques absents de la trust policy,
+> corrigé et verrouillé par une vérification d'intention.
 >
-> `OIDC Federation` `IAM Trust Policy` `Least Privilege` `Policy as Code` `Conftest/OPA` `Terraform` `LocalStack`
+> `OIDC Federation` `IAM Trust Policy` `Least Privilege` `Policy as Code` `OpenBao` `Conftest/OPA` `Terraform`
 
 ### 🎯 [SOC-Lab-Vulnerability-Assessment](https://github.com/Anne-LaureS/SOC-Lab-Vulnerability-Assessment)
 > Rapport de test d'intrusion complet (méthodologie PTES + OWASP) contre un lab Metasploitable3 :
@@ -141,12 +141,14 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### 🔐 IAM & Security
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![LDAP](https://img.shields.io/badge/LDAP-IAM%20Audit-0d1117?style=for-the-badge)
 ![OIDC](https://img.shields.io/badge/OIDC-Federation-0d1117?style=for-the-badge)
+![OPA](https://img.shields.io/badge/OPA%20%2F%20Rego-Policy%20as%20Code-7D9199?style=for-the-badge&logo=openpolicyagent&logoColor=white)
 ![LDAPS](https://img.shields.io/badge/LDAPS-Encrypted%20Bind-0d1117?style=for-the-badge)
 
 #### 🎯 Offensive Security
