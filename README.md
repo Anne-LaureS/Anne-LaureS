@@ -65,10 +65,12 @@ Open_To: "Opportunités Cybersécurité — GRC, SecOps, IAM, Cloud Security"
 > Boîte à outils de gouvernance des accès IAM inspirée des campagnes de recertification type
 > SailPoint : détection de violations de séparation des tâches (SoD), repérage des rôles
 > "alibi" quasi-inutilisés, détection des comptes dormants, génération et traitement de
-> campagnes de recertification. Ferme la boucle sur les données produites par
+> campagnes de recertification. Comparée à un outil IGA (midPoint) sur le même annuaire de test :
+> à périmètre égal, il retrouve les mêmes orphelins, leavers, appartenances et violations SoD ;
+> les deux approches diffèrent par la méthode. Ferme la boucle sur les données produites par
 > `LDAP-App-Role-Audit`.
 >
-> `PowerShell` `IAM Governance` `SoD` `Dormant Accounts` `Access Recertification`
+> `PowerShell` `IAM Governance` `SoD` `Dormant Accounts` `Access Recertification` `midPoint`
 
 ### 🔄 [IAM-JML-Lifecycle](https://github.com/Anne-LaureS/IAM-JML-Lifecycle)
 > Automatisation Joiner/Mover/Leaver sur Active Directory : création de compte avec accès de
